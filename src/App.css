@@ -1,3 +1,22 @@
+.navigation{
+  padding: 20px 30px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.navigation a:hover{
+  text-decoration: underline;
+}
+
+
 .App {
   text-align: center;
 }

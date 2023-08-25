@@ -1,0 +1,16 @@
+body{
+   background-color: black;
+}
+
+.container{
+   margin: 0 auto;
+   max-width: 1440px;
+   text-align: center;
+   
+   
+}
+
+.paragraph{
+   color: white;
+}
+
