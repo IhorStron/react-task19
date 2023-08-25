@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-task19/static/css/main.f6a1c5fc.css",
+    "main.js": "/react-task19/static/js/main.15bd8ab3.js",
+    "static/js/787.a555bb82.chunk.js": "/react-task19/static/js/787.a555bb82.chunk.js",
+    "index.html": "/react-task19/index.html",
+    "main.f6a1c5fc.css.map": "/react-task19/static/css/main.f6a1c5fc.css.map",
+    "main.15bd8ab3.js.map": "/react-task19/static/js/main.15bd8ab3.js.map",
+    "787.a555bb82.chunk.js.map": "/react-task19/static/js/787.a555bb82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a1c5fc.css",
+    "static/js/main.15bd8ab3.js"
+  ]
+}
