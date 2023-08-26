@@ -39,3 +39,10 @@ body{
    .checkbox{
       text-align: center;
    }
+   
+   .contacts p{
+      color: white;
+      text-decoration: underline;
+   }
+
+   

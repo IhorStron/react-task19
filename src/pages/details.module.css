@@ -1,0 +1,17 @@
+.details{
+   text-align: center;
+   margin: 200px 0;
+   box-shadow: 0px 1px 10px white;
+   padding: 50px;
+   background-color: white;
+   border-radius: 150px;
+
+   
+}
+.details p{
+   color: black;
+}
+
+.avatar{
+   width: 10%;
+}

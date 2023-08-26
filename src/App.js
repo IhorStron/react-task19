@@ -4,7 +4,11 @@ import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/home';
 import Publications from './pages/publications';
 import Photos from './pages/photos';
-import Contacts from './pages/contacts'
+import Contacts from './pages/contacts.jsx';
+import ContactDetails from './pages/ContactDetails';
+
+
+
 
 function App() {
   return (
@@ -26,6 +30,7 @@ function App() {
           <Route path='/publications' element={<Publications />} />
           <Route path='/photos' element={<Photos />} />
           <Route path='/contacts' element={<Contacts />} />
+          <Route path='/contacts/:id' element={<ContactDetails />} />
         </Routes>
       </>
     </Router>
